@@ -15,3 +15,7 @@ token=YOUR BOT TOKEN
 - We need to install the discord.js module **[ npm i discord.js ]**
 
 - Next, go to the сonfig.json and configure everything for yourself!
+
+> It should be understood that the code will not work on some hosting sites. I recommend using the vds server for this.
+
+- Also, do not set the time less than 1000 in the config.json. This is dangerous! To avoid a ban, it is recommended to set the time for one minute.
