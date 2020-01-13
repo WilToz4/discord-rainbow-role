@@ -1,5 +1,6 @@
 {
     "server": "your server id",
-     "role": "The desired rainbow role(the name of the role, it is desirable that there are no spaces in it. If you use the role with spaces, you will need to change the main file)",
-     "time": "60000"
+    "role": "The desired rainbow role(the name of the role, it is desirable that there are no spaces in it. If you use the role with spaces, you will need to change the main file)",
+    "time": "60000",
+    "prefix": "!"
 }
