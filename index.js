@@ -13,7 +13,7 @@ setInterval(function(){
 
 client.on('message', msg => {
   if (msg.content === 'ping') {
-    msg.reply('Client is work, and his ping **${Math.floor(client.ping)}**ms');
+    msg.reply(`Client is work, and his ping **${Math.floor(client.ping)}**ms`);
   }
 })
 
