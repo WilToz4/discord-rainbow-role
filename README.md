@@ -3,7 +3,7 @@
 **How to start using it?**
 
 - To get started, download the project to yourself. **[ git clone https://github.com/perssBest/discord-rainbow-role ]**
-- After we create the .env file(if you upload the code to the hosting).
+- After we create the **.env** file(if you upload the code to the hosting).
 In this file we write the following:
 ```javascript
 token=YOUR BOT TOKEN
