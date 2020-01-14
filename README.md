@@ -19,3 +19,7 @@ token=YOUR BOT TOKEN
 > It should be understood that the code will not work on some hosting sites. I recommend using the vds server for this.
 
 - Also, do not set the time less than 1000 in the config.json. This is dangerous! To avoid a ban, it is recommended to set the time for one minute.
+
+
+
+> [Если вы нихуя не поняли используйте переводчик :D](https://translate.google.com/)
