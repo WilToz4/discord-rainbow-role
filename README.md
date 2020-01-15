@@ -22,4 +22,4 @@ token=YOUR BOT TOKEN
 
 
 
-> [Если вы нихуя не поняли используйте переводчик :D](https://translate.google.com/)
+> Если вы нихуя не поняли используйте переводчик :D --> https://translate.google.com/
