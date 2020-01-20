@@ -1,6 +1,7 @@
 {
-    "server": "your server id",
-    "role": "The desired rainbow role(the name of the role, it is desirable that there are no spaces in it. If you use the role with spaces, you will need to change the main file)",
+    "server": "y0ur_server_id",
+    "role": "The_ID_0f_rainb0w_r0le",
     "time": "60000",
-    "prefix": "!"
+    "prefix": "!",
+    "token": "This.a_secret"
 }
