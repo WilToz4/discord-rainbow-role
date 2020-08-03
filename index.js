@@ -14,7 +14,7 @@ bot.on("ready", async() => {
     if(interval < 60000) console.log(`\n[!!!] Вы усказали слишком маленькое время. Будте аккуратнее! У вас могут появится проблемы..`) // Предупреждение, если интервал меньше минуты.
 
     setInterval(() => {
-        role.edit({color: 'RANDOM'}).catch(err => Error(`[ Error ] Произошла ошибка во время изменении роли.`));
+        role.edit({color: 'RANDOM'}).catch(err => console.log(`[ Error ] Произошла ошибка во время изменении роли.`));
     }, interval)
 
 })
