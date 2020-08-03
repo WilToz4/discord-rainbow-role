@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/635605644065374228/666228742930038784/cvKKXmy685.gif)
+![](https://media.discordapp.net/attachments/739837049238192192/739841772292931594/90n5EphpyI.gif)
 
 # How to start using it? / Как начать использовать его?
 
