@@ -1,7 +1,7 @@
 {
-    "server": "y0ur_server_id",
-    "role": "The_ID_0f_rainb0w_r0le",
-    "time": "60000",
-    "prefix": "!",
-    "token": "This.a_secret"
+    "token": "токен вашего бота",
+    "serverID": "айди вашего сервера",
+    "roleID": "айди роли",
+
+    "interval": "60000"
 }
